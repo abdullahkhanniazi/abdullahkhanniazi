@@ -3,7 +3,6 @@
 
 ![ABDULLAH KHAN](https://github.com/user-attachments/assets/365567bd-c060-4159-861c-0572dcc9e8fc)
 
-<img align="center" src="" alt="profile banner" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhanniazi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhanniazi" /> </p>
 
